@@ -2,8 +2,8 @@
 /*
  * Plugin Name: Methods
  * Plugin URI: https://github.com/luisdelcid/ldc-methods
- * Description: A personal collection of useful methods for WordPress developers.
- * Version: 26.11.17.5
+ * Description: A personal collection of useful methods for plugin and theme developers.
+ * Version: 26.11.17.6
  * Requires at least: 6.4
  * Requires PHP: 8.3
  * Author: Luis del Cid
